@@ -1,5 +1,5 @@
 {
-  "name": "aodreman/magento2-module-pdf",
+  "name": "staempfli/magento2-module-pdf",
   "description": "Staempfli PDF generator.",
   "require": {
     "php": "~7.1.32",
